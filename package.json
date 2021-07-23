@@ -1,0 +1,24 @@
+{
+  "name": "sample-deploy-task-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jaeboklee-modo/sample-deploy-task-project.git",
+  "author": "jaebok <jaebok.lee@modori.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.2.0",
+    "@typechain/ethers-v5": "^7.0.1",
+    "@typechain/hardhat": "^2.2.0",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.1",
+    "hardhat": "^2.5.0",
+    "hardhat-deploy": "^0.8.11",
+    "ts-node": "^10.1.0",
+    "typechain": "^5.1.2",
+    "typescript": "^4.3.5"
+  }
+}
